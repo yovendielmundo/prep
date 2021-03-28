@@ -22,6 +22,6 @@
             "city": "Dubai"
         },
         "server_type": "",
-        "api_endpoint": "ec2-34-250-169-123.eu-west-1.compute.amazonaws.com:7100"
+        "api_endpoint": "ec2-34-250-169-123.eu-west-1.compute.amazonaws.com:9000"
     }
 }
