@@ -21,7 +21,7 @@
             "country": "AE",
             "city": "Dubai"
         },
-        "server_type": "",
+        "server_type": "cloud",
         "api_endpoint": "ec2-34-250-169-123.eu-west-1.compute.amazonaws.com:9000"
     }
 }
